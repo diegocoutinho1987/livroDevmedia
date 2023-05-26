@@ -32,6 +32,17 @@ p {
     width: 930px;
 }
 
+li {
+    font-size: 18px;
+    font-family: 'Tahoma', sans-serif;
+    background-color: #ffffff;
+    margin-bottom: 5px;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 25px 0 0 25px;
+    list-style: none;
+}
+
 span {
     font-family: 'Tahoma', sans-serif;
     font-weight: bold;
